@@ -1,0 +1,5 @@
+Plugin to integrate with website 
+Auto learning 
+GUI for chat 
+Login via Email using otp 
+Thats all
